@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2896dc0c-725c-4ba2-b45a-66363d7360b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/K23CNT2-PhamVanVu-2310900120-Project03-hatechno-main/public/pages/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/K23CNT2-PhamVanVu-2310900120-Project03-hatechno-main/public/pages/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K23CNT2-PhamVanVu-2310900120-Project03-hatechno-main/public/pages/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/K23CNT2-PhamVanVu-2310900120-Project03-hatechno-main/public/pages/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K23CNT2-PhamVanVu-2310900120-Project03-hatechno-main/routes/departmentRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/K23CNT2-PhamVanVu-2310900120-Project03-hatechno-main/routes/departmentRoutes.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3HDZb4HtENTsPlSw6xpZ6TxFe2y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project3.1/K23CNT2-PhamVanVu-2310900120&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2896dc0c-725c-4ba2-b45a-66363d7360b3" name="Changes" comment="" />
+      <created>1785404668604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785404668604</updated>
+    </task>
+    <servers />
+  </component>
+</project>
